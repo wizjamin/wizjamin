@@ -5,7 +5,7 @@ I'm a passionate software developer with a love for solving complex problems and
 ### 🛠️ Tech Stack
 - **Frontend:** Next.js, React, Svelte, Vue.js, Flutter
 - **Backend:** Node.js, Laravel, Firebase
-- **Databases:** MSSQL, Mongo, Redis
+- **Databases:** Firebase, Mongo, Redis, MSSQL
 - **Mobile:** Android
 - **Programming Languages:** Python, C#, Javascript, Java, PHP, Kotlin, Dart
 
